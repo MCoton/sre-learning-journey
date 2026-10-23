@@ -4,7 +4,7 @@ import os
 
 def run_sre_system_check() -> None:
     print("\n" + "=" * 45)
-    print(" SRE CODESSPACE eNVIRONMENT CHECK")
+    print(" SRE CODESPACE ENVIRONMENT CHECK")
     print("=" * 45)
 
     # Python Runtime
@@ -22,3 +22,6 @@ def run_sre_system_check() -> None:
     print("=" * 45)
     print(" Status: Portable SRE Sandbox is Fullly Operational")
     print("=" * 45 + "\n")
+
+if __name__ == "__main__":
+    run_sre_system_check()
