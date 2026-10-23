@@ -18,7 +18,10 @@
 - [ ] Practice saving your changes back to GitHub (`git add .` -> `git commit -m "setup codespace"` -> `git push`).
 
 ## Chunk 4: Learning Platform & Cloud Sandboxes
-- [ ] Register for Python for Everybody (PY4E) or bookmark Automate the Boring Stuff.
+- [ ] Choose your primary interactive Python foundation track:
+    - Boot.dev (Gamified interactive CLI & backend focus) OR
+    - University of Helsinki Python Programming MOOC (Free, text-based VS Code exercises)
+- [ ] Select a project/video resource for supplementary builds (e.g., 100 Days of Code by Angela Yu or Automate the Boring Stuff).
 - [ ] Create a free account on KodeKloud (for browser-based Linux, Docker, and Kubernetes labs).
 - [ ] Create an AWS Free Tier or Microsoft Azure Free Account for future cloud operations modules.
 
